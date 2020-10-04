@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087760665787",
+    "firebase_url": "https://sandbox-for-development.firebaseio.com",
+    "project_id": "sandbox-for-development",
+    "storage_bucket": "sandbox-for-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087760665787:android:b79f4b1349bf88bc062d9e",
+        "android_client_info": {
+          "package_name": "duckdever.electricstation.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087760665787-8pc3epjfrunsjhpkft4k7jsj7jh7e3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-OqrSQKxFH4e4k0sWa1seEwnAKph8hG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087760665787-8pc3epjfrunsjhpkft4k7jsj7jh7e3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087760665787-apj1esit13j22ad8emhco72db0reol24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "duckdever.electric-station.chat-demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
