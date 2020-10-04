@@ -38,7 +38,7 @@ class ChatBubbleWidget extends StatelessWidget {
             ? FlatButton.icon(
                 onPressed: () {
                   launch(
-                      "https://maps.google.com/?q=${this.message.split('#')[0]},${this.message.split('#')[0]}");
+                      "https://maps.google.com/?q=${this.message.split('#')[0]},${this.message.split('#')[1]}");
                 },
                 icon: Icon(
                   Icons.location_history,
@@ -73,7 +73,7 @@ class ChatBubbleWidget extends StatelessWidget {
             ? FlatButton.icon(
                 onPressed: () {
                   launch(
-                      "https://maps.google.com/?q=${this.message.split('#')[0]},${this.message.split('#')[0]}");
+                      "https://maps.google.com/?q=${this.message.split('#')[0]},${this.message.split('#')[1]}");
                 },
                 icon: Icon(Icons.location_history),
                 label: Text("Current Address"),
